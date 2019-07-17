@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27326" started-at="2019-07-13T13:54:54Z" finished-at="2019-07-13T13:55:22Z">
+    <groups>
+      <group name="admin">
+        <method signature="Testcaeses.tc0002()[pri:2, instance:login.Testcaeses@548a9f61]" name="tc0002" class="login.Testcaeses"/>
+      </group> <!-- admin -->
+      <group name="login">
+        <method signature="Testcaeses.tc0001()[pri:1, instance:login.Testcaeses@548a9f61]" name="tc0001" class="login.Testcaeses"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Default test" duration-ms="27326" started-at="2019-07-13T13:54:54Z" finished-at="2019-07-13T13:55:22Z">
+      <class name="login.Testcaeses">
+        <test-method status="PASS" signature="be()[pri:0, instance:login.Testcaeses@548a9f61]" name="be" is-config="true" duration-ms="11079" started-at="2019-07-13T13:54:54Z" finished-at="2019-07-13T13:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- be -->
+        <test-method status="PASS" signature="tc0001()[pri:1, instance:login.Testcaeses@548a9f61]" name="tc0001" duration-ms="1609" started-at="2019-07-13T13:55:05Z" finished-at="2019-07-13T13:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0001 -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:login.Testcaeses@548a9f61]" name="bc" is-config="true" duration-ms="2647" started-at="2019-07-13T13:55:07Z" finished-at="2019-07-13T13:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="be()[pri:0, instance:login.Testcaeses@548a9f61]" name="be" is-config="true" duration-ms="9096" started-at="2019-07-13T13:55:10Z" finished-at="2019-07-13T13:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- be -->
+        <test-method status="PASS" signature="tc0002()[pri:2, instance:login.Testcaeses@548a9f61]" name="tc0002" duration-ms="397" started-at="2019-07-13T13:55:19Z" finished-at="2019-07-13T13:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0002 -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:login.Testcaeses@548a9f61]" name="bc" is-config="true" duration-ms="2430" started-at="2019-07-13T13:55:19Z" finished-at="2019-07-13T13:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+      </class> <!-- login.Testcaeses -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
