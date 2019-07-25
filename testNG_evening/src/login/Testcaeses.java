@@ -26,7 +26,7 @@ public class Testcaeses {
 			
 			Assert.assertEquals(bo.getTitle(), "OrangeHRM");
 
-		  
+	//testing noy donde	  
   }
     @Test(enabled=true,priority=2,groups="admin")
 	  public void tc0002() {
